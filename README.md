@@ -4,4 +4,4 @@ To build a basic neural network that recognises handwriting digits using Tensorf
 - Learn how to build a neural net to classify handwritten digits
 - Learn how to use callback to stop training when you reach the required accuracy
 - Evaluate and fine-tune the model to get improve the model.
-* Train Accuracy- 99%, Validation accuracy- 97%
+- Train Accuracy- 99%, Validation accuracy- 97%
